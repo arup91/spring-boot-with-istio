@@ -9,7 +9,7 @@
 		<version>2.2.6.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.techmojo</groupId>
+	<groupId>com.example</groupId>
 	<artifactId>service-1</artifactId>
 	<version>0.0.1</version>
 	<name>demo-1</name>
